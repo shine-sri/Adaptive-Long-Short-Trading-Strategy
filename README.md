@@ -1,4 +1,4 @@
-# Residual Alpha Long-Short Strategy
+# Adaptive Long-Short Trading Strategy
 
 ## Overview
 
